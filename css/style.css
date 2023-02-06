@@ -237,15 +237,13 @@ form textarea {
   background: var(--hover);
 }
 .footer {
-  display: grid;
-  place-items: center;
+  text-align: center;
   padding: 20px;
   background: #ebebeb;
   color: #000;
 }
 .footer h2 {
   font-size: 1.5rem;
-  margin-bottom: 1.6rem;
 }
 .footer-social a i{
   color: rgb(10, 26, 208);
